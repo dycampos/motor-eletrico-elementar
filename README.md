@@ -8,7 +8,7 @@
 
 ## Principio de funcionamento
 
- Exemplo do campo magnético gerado pelo ímã. Na figura foi utilizado pó de ferro, uma folha e um ímã. O ímã foi posicionado no centro e sob a folha, realinhando o pó de ferro de acordo com as linhas de campo.
+ Exemplo do campo magnético gerado pelo ímã. Na figura foi utilizado pó de ferro, uma folha e um ímã. O ímã foi posicionado no centro e sob a folha, realinhando o pó de ferro de acordo com as linhas de campo. Para ver o funcionamento [Clique aqui](https://youtu.be/3ohrIaFNyZI).
 
 <figure>
     <img src="src/img/campo-magntico-ima.jpeg" alt="Campo magnético ímã" width=300px       height=500px>
